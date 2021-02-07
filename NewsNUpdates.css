@@ -17,7 +17,7 @@
 .What_is_Rotary__4_Class {
 	position: absolute;
 	width: 1920px;
-	height: 3240px;
+	height: 3560px;
 	background-color: rgba(255,255,255,1);
 	overflow: hidden;
 	--web-view-name: What is Rotary – 4;
@@ -2641,7 +2641,7 @@
 
 .Rotary_News_Class1 {
 	left: 165px;
-	top: 2360px;
+	top: 2690px;
 	position: absolute;
 	overflow: visible;
 	width: 369px;
@@ -2658,6 +2658,24 @@
 	text-transform: uppercase;
 }
 
+.Earlier_Projects_Class {
+	left: 165px;
+	top: 1935px;
+	position: absolute;
+	overflow: visible;
+	width: 486px;
+	white-space: nowrap;
+	line-height: 65px;
+	margin-top: -10.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 44px;
+	color: rgba(21,49,144,1);
+	letter-spacing: 0.5px;
+	text-transform: uppercase;
+}
 .Lorem_Ipsum__Lorem_Ipsum__Lore_Class {
 	left: 202px;
 	top: 1264px;
@@ -2785,7 +2803,24 @@
 }
 .MAJOR_PROJECTS_2020__2021_Class {
     left: 165px;
-    top: 2435px;
+    top: 2765px;
+    position: absolute;
+    overflow: visible;
+    width: 400px;
+    white-space: nowrap;
+    line-height: 35px;
+    margin-top: -5.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: rgba(0,0,0,1);
+    letter-spacing: 0.5px;
+}
+.MAJOR_PROJECTS_2018__2019_Class {
+    left: 165px;
+    top: 2000px;
     position: absolute;
     overflow: visible;
     width: 400px;
@@ -2801,6 +2836,23 @@
     letter-spacing: 0.5px;
 }
 
+.MAJOR_PROJECTS_2019__2020_Class {
+    left: 165px;
+    top: 2370px;
+    position: absolute;
+    overflow: visible;
+    width: 400px;
+    white-space: nowrap;
+    line-height: 35px;
+    margin-top: -5.5px;
+    text-align: left;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: rgba(0,0,0,1);
+    letter-spacing: 0.5px;
+}
 .Rotary_International_News_http_Class {
 	left: 205px;
 	top: 1768px;
@@ -2833,19 +2885,19 @@
 	width: 1920px;
 	height: 320px;
 	left: 0px;
-	top: 2920px;
+	top: 3240px;
 }
 .Mark-of-Excellence-4992_Class {
 	position: absolute;
 	width: 131px;
 	height: 131px;
 	left: 1718px;
-	top: 3031px;
+	top: 3351px;
 	overflow: visible;
 }
 .ROTARY_CLUB_OF__PUNE_VIBRANT_E_g_Class {
 	left: 185px;
-	top: 3091px;
+	top: 3411px;
 	position: absolute;
 	overflow: visible;
 	width: 260px;
@@ -2862,7 +2914,7 @@
 }
 .RID_3131_Club_ID_89688_g_Class {
 	left: 185px;
-	top: 3154px;
+	top: 3474px;
 	position: absolute;
 	overflow: visible;
 	width: 287px;
@@ -2882,7 +2934,7 @@
 	width: 111px;
 	height: 113px;
 	left: 61px;
-	top: 3077px;
+	top: 3397px;
 	overflow: visible;
 }
 .Rectangle_6064_Class {
@@ -2894,7 +2946,7 @@
 	width: 296px;
 	height: 2px;
 	left: 185px;
-	top: 3148px;
+	top: 3468px;
 }
 .Rectangle_6065_Class {
 	fill: rgba(32,57,142,1);
@@ -2905,11 +2957,11 @@
 	width: 477px;
 	height: 1px;
 	left: 44px;
-	top: 3206px;
+	top: 3526px;
 }
 .About_Us_g_Class {
 	left: 619px;
-	top: 2956.564px;
+	top: 3276.564px;
 	position: absolute;
 	overflow: visible;
 	width: 99px;
@@ -2925,7 +2977,7 @@
 }
 .Rotary_International_Class {
 	left: 1676px;
-	top: 3181.564px;
+	top: 3501.564px;
 	position: absolute;
 	overflow: visible;
 	width: 215px;
@@ -2941,7 +2993,7 @@
 }
 .What_Is_Rotary_ha_Class {
 	left: 816px;
-	top: 2956.564px;
+	top: 3276.564px;
 	position: absolute;
 	overflow: visible;
 	width: 157px;
@@ -2957,7 +3009,7 @@
 }
 .Get_Involved_hb_Class {
 	left: 1054px;
-	top: 2956.564px;
+	top: 3276.564px;
 	position: absolute;
 	overflow: visible;
 	width: 125px;
@@ -2973,7 +3025,7 @@
 }
 .Club_Information_hc_Class {
 	left: 1252px;
-	top: 2956.564px;
+	top: 3276.564px;
 	position: absolute;
 	overflow: visible;
 	width: 173px;
@@ -2989,7 +3041,7 @@
 }
 .News_and_Updates_hd_Class {
 	left: 1462px;
-	top: 2956.564px;
+	top: 3276.564px;
 	position: absolute;
 	overflow: visible;
 	width: 191px;
@@ -3005,7 +3057,7 @@
 }
 .Conception_Vision_and_Mission__Class {
 	left: 591px;
-	top: 3002.564px;
+	top: 3322.564px;
 	position: absolute;
 	overflow: visible;
 	width: 157px;
@@ -3021,7 +3073,7 @@
 }
 .Club_Bulletin_Rotary_News_Class {
 	left: 1511px;
-	top: 3002.564px;
+	top: 3322.564px;
 	position: absolute;
 	overflow: visible;
 	width: 93px;
@@ -3037,7 +3089,7 @@
 }
 .Club_Members_Club_Meetings_Eve_Class {
 	left: 1244px;
-	top: 3002.564px;
+	top: 3322.564px;
 	position: absolute;
 	overflow: visible;
 	width: 189px;
@@ -3053,7 +3105,7 @@
 }
 .Defining_Goals_Project_Positiv_Class {
 	left: 1015px;
-	top: 3002.564px;
+	top: 3322.564px;
 	position: absolute;
 	overflow: visible;
 	width: 203px;
@@ -3069,7 +3121,7 @@
 }
 .Rotary_Overview_Our_Causes_Rot_Class {
 	left: 774px;
-	top: 3002.564px;
+	top: 3322.564px;
 	position: absolute;
 	overflow: visible;
 	width: 225px;
@@ -3094,7 +3146,7 @@
 	width: 19.623px;
 	height: 42.513px;
 	left: 133.81px;
-	top: 2975.933px;
+	top: 3295.933px;
 	transform: matrix(1,0,0,1,0,0);
 }
 .Path_27233_Class {
@@ -3108,7 +3160,7 @@
 	width: 40.396px;
 	height: 40.408px;
 	left: 328.264px;
-	top: 2976.985px;
+	top: 3295.933px;
 	transform: matrix(1,0,0,1,0,0);
 }
 .Path_27232_Class {
@@ -3122,7 +3174,7 @@
 	width: 45.859px;
 	height: 36.682px;
 	left: 225.831px;
-	top: 2978.849px;
+	top: 3295.933px;
 	transform: matrix(1,0,0,1,0,0);
 }
 .logo_hm_Class {
@@ -3138,7 +3190,7 @@
 	width: 40.483px;
 	height: 40.483px;
 	left: 0px;
-	top: 0px;
+	top: 320px;
 	overflow: visible;
 }
 .Path_27225_ho_Class {
@@ -3304,10 +3356,47 @@
 	font-size: 18px;
 	color: rgba(18,47,144,1);
 }
-
-.Projects19_20 {
+.Projects18_19 {
 	left: 160px;
-	top: 2475px;
+	top: 2045px;
+	position: absolute;
+/*	overflow-y: scroll;
+	overflow-x: hidden;
+*/	width: 80%;
+	height: 400px;
+	line-height: 50px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+.Projects19_20{
+	left: 160px;
+	top: 2415px;
+	position: absolute;
+	/*overflow-y: scroll;
+	overflow-x: hidden;
+	*/width: 80%;
+	height: 400px;
+	line-height: 50px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 0.5px;
+}
+
+
+.Projects20_21 {
+	left: 160px;
+	top: 2805px;
 	position: absolute;
 	overflow-y: scroll;
 	overflow-x: hidden;
