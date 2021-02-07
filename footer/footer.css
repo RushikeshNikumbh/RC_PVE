@@ -1,0 +1,419 @@
+.mediaViewInfo {
+	--web-view-name: Web 1920 – 2;
+	--web-view-id: Web_1920__2;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: Web_1920__2;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#Web_1920__2 {
+	position: absolute;
+	width: 1920px;
+	height: 318px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: Web 1920 – 2;
+	--web-view-id: Web_1920__2;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+#Rectangle_6013 {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(112,112,112,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_6013 {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 320px;
+	left: 0px;
+	top: 0px;
+}
+#Mark-of-Excellence-4992 {
+	position: absolute;
+	width: 131px;
+	height: 131px;
+	left: 1718px;
+	top: 111px;
+	overflow: visible;
+}
+#ROTARY_CLUB_OF__PUNE_VIBRANT_E {
+	left: 185px;
+	top: 171px;
+	position: absolute;
+	overflow: visible;
+	width: 260px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(21,49,144,1);
+	letter-spacing: 0.5px;
+}
+#RID_3131_Club_ID_89688 {
+	left: 185px;
+	top: 234px;
+	position: absolute;
+	overflow: visible;
+	width: 287px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -2px;
+	text-align: left;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 22px;
+	color: rgba(21,49,144,1);
+	letter-spacing: 0.5px;
+}
+#Final_RCPVE_Logo {
+	position: absolute;
+	width: 111px;
+	height: 113px;
+	left: 61px;
+	top: 157px;
+	overflow: visible;
+}
+#Rectangle_6064 {
+	fill: rgba(32,57,142,1);
+}
+.Rectangle_6064 {
+	position: absolute;
+	overflow: visible;
+	width: 296px;
+	height: 2px;
+	left: 185px;
+	top: 228px;
+}
+#Rectangle_6065 {
+	fill: rgba(32,57,142,1);
+}
+.Rectangle_6065 {
+	position: absolute;
+	overflow: visible;
+	width: 477px;
+	height: 1px;
+	left: 44px;
+	top: 286px;
+}
+#About_Us {
+	left: 619px;
+	top: 36.564px;
+	position: absolute;
+	overflow: visible;
+	width: 99px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -2px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(0,0,0,1);
+}
+#Rotary_International {
+	left: 1676px;
+	top: 261.564px;
+	position: absolute;
+	overflow: visible;
+	width: 215px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -2px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(0,0,0,1);
+}
+#What_Is_Rotary {
+	left: 816px;
+	top: 36.564px;
+	position: absolute;
+	overflow: visible;
+	width: 157px;
+	white-space: nowrap;
+	line-height: 25px;
+	margin-top: -2px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(0,0,0,1);
+}
+#Get_Involved {
+	left: 1054px;
+	top: 36.564px;
+	position: absolute;
+	overflow: visible;
+	width: 125px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -2px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Club_Information {
+	left: 1252px;
+	top: 36.564px;
+	position: absolute;
+	overflow: visible;
+	width: 173px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -2px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#News_and_Updates {
+	left: 1462px;
+	top: 36.564px;
+	position: absolute;
+	overflow: visible;
+	width: 191px;
+	white-space: nowrap;
+	line-height: 24px;
+	margin-top: -2px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(0,0,0,1);
+}
+#Conception_Vision_and_Mission_ {
+	left: 591px;
+	top: 82.564px;
+	position: absolute;
+	overflow: visible;
+	width: 157px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -8px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(25,51,142,1);
+}
+#Club_Bulletin_Rotary_News {
+	left: 1511px;
+	top: 82.564px;
+	position: absolute;
+	overflow: visible;
+	width: 93px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -8px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(25,51,142,1);
+}
+#Club_Members_Club_Meetings_Eve {
+	left: 1244px;
+	top: 82.564px;
+	position: absolute;
+	overflow: visible;
+	width: 189px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -8px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(25,51,142,1);
+}
+#Defining_Goals_Project_Positiv {
+	left: 1015px;
+	top: 82.564px;
+	position: absolute;
+	overflow: visible;
+	width: 203px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -8px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(25,51,142,1);
+}
+#Rotary_Overview_Our_Causes_Rot {
+	left: 774px;
+	top: 82.564px;
+	position: absolute;
+	overflow: visible;
+	width: 225px;
+	white-space: nowrap;
+	line-height: 30px;
+	margin-top: -8px;
+	text-align: center;
+	font-family: Montserrat;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14px;
+	color: rgba(25,51,142,1);
+}
+#Path_27231 {
+	fill: rgba(32,57,142,1);
+}
+.Path_27231 {
+	overflow: visible;
+	position: absolute;
+	width: 19.623px;
+	height: 42.513px;
+	left: 133.81px;
+	top: 55.933px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_27233 {
+	fill: rgba(32,57,142,1);
+}
+.Path_27233 {
+	overflow: visible;
+	position: absolute;
+	width: 40.396px;
+	height: 40.408px;
+	left: 328.264px;
+	top: 55.985px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_27232 {
+	fill: rgba(32,57,142,1);
+}
+.Path_27232 {
+	overflow: visible;
+	position: absolute;
+	width: 45.859px;
+	height: 36.682px;
+	left: 225.831px;
+	top: 58.849px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#logo {
+	position: absolute;
+	width: 40.483px;
+	height: 40.483px;
+	left: 441.023px;
+	top: 56.986px;
+	overflow: visible;
+}
+#Group_10811 {
+	position: absolute;
+	width: 40.483px;
+	height: 40.483px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Path_27225 {
+	fill: rgba(32,57,142,1);
+}
+.Path_27225 {
+	overflow: visible;
+	position: absolute;
+	width: 40.483px;
+	height: 40.483px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_27226 {
+	fill: rgba(32,57,142,1);
+}
+.Path_27226 {
+	overflow: visible;
+	position: absolute;
+	width: 6.115px;
+	height: 12.994px;
+	left: 7.907px;
+	top: 20.742px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_27227 {
+	fill: rgba(32,57,142,1);
+}
+.Path_27227 {
+	overflow: visible;
+	position: absolute;
+	width: 5.034px;
+	height: 9.804px;
+	left: 14.285px;
+	top: 24.063px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_27228 {
+	fill: rgba(32,57,142,1);
+}
+.Path_27228 {
+	overflow: visible;
+	position: absolute;
+	width: 5.139px;
+	height: 13.125px;
+	left: 20.822px;
+	top: 20.742px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_27229 {
+	fill: rgba(32,57,142,1);
+}
+.Path_27229 {
+	overflow: visible;
+	position: absolute;
+	width: 5.245px;
+	height: 9.937px;
+	left: 27.331px;
+	top: 23.931px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Path_27230 {
+	fill: rgba(32,57,142,1);
+}
+.Path_27230 {
+	overflow: visible;
+	position: absolute;
+	width: 1.687px;
+	height: 6.826px;
+	left: 19.003px;
+	top: 7.3px;
+	transform: matrix(1,0,0,1,0,0);
+}
