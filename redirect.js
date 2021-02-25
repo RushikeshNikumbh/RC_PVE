@@ -46,5 +46,6 @@
             window.open('http://rcpve.org/pph/meetings/?id=601adewebsitercpve', "_blank")
           }
           function clubSignup() {
-            window.open('http://rcpve.org/pph/meetings/club-signup.php', "_blank")
+            window.open('http://signup.rcpve.org/register/', "_blank")
+
           }
